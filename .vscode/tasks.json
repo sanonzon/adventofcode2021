@@ -1,0 +1,7 @@
+{
+    "label": "compile",
+    "type": "shell",
+    "command": "mvn -B compile",
+    "group": "build",
+    "version": "2.0.0"
+}
