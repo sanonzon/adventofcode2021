@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "Day1"
+    },{
+      "path": "Day2"
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }  
+}
