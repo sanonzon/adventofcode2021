@@ -9,8 +9,8 @@ import java.util.List;
  * https://adventofcode.com/2021/day/1
  * 
  */
-public class Day1 {
-    public int part_one(List<Integer> numbers) {
+public abstract class Day1 {
+    public static int part_one(List<Integer> numbers) {
         int higherCount = 0;
 
         Integer recent = null;
@@ -24,7 +24,7 @@ public class Day1 {
         return higherCount;
     }
 
-    public int part_two(List<Integer> numbers) {
+    public static int part_two(List<Integer> numbers) {
         int increments = 0;
         Integer lastSum = null;
         List<Integer> collection_1 = new ArrayList<>();
