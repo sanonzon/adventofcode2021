@@ -1,4 +1,4 @@
-package com.sudd.adventofcode;
+package com.sudd.adventofcode.day1;
 
 import java.util.List;
 

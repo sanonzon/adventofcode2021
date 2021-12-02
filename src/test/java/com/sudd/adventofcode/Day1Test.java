@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 
+import com.sudd.adventofcode.day1.Day1;
 import com.sudd.adventofcode.helper.InputHelper;
 
 import org.junit.Test;
